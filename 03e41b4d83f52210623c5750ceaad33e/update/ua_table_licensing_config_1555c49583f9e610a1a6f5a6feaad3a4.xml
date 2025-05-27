@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-27 14:45:05</sys_created_on>
-        <sys_id>71255f4d83f52210623c5750ceaad3d1</sys_id>
+        <sys_id>1555c49583f9e610a1a6f5a6feaad3a4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_1635146_prasha_0_custim_poc_table</sys_name>
         <sys_package display_value="Prashant_app_POC" source="x_1635146_prasha_0">03e41b4d83f52210623c5750ceaad33e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Prashant_app_POC">03e41b4d83f52210623c5750ceaad33e</sys_scope>
-        <sys_update_name>ua_table_licensing_config_71255f4d83f52210623c5750ceaad3d1</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_1555c49583f9e610a1a6f5a6feaad3a4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-05-27 14:45:05</sys_updated_on>
     </ua_table_licensing_config>
